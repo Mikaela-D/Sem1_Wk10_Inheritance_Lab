@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cfbdf125-54fd-401d-8e96-d26354245c09" name="Changes" comment="New project with class Person and Temp file added">
+    <list default="true" id="cfbdf125-54fd-401d-8e96-d26354245c09" name="Changes" comment="Added code to Person class and created Customer class">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ie/atu/PersonApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ie/atu/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ie/atu/Customer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ie/atu/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ie/atu/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +18,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -37,15 +40,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Mikaela/OneDrive - Atlantic TU/OOP/Java/Week 5/StudentApp/pom.xml"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="PersonApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ie.atu.PersonApp" />
+      <module name="InheritanceLab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ie.atu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PersonApp" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -54,7 +73,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669666541818</updated>
-      <workItem from="1669666544167" duration="2118000" />
+      <workItem from="1669666544167" duration="3485000" />
+      <workItem from="1669719417894" duration="2004000" />
+      <workItem from="1669726797074" duration="6749000" />
+      <workItem from="1669743174262" duration="67000" />
+      <workItem from="1670183060333" duration="2064000" />
     </task>
     <task id="LOCAL-00001" summary="New project with class Person and Temp file added">
       <created>1669667173991</created>
@@ -63,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669667173991</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added code to Person class and created Customer class">
+      <created>1669669107792</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669669107792</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,6 +112,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New project with class Person and Temp file added" />
-    <option name="LAST_COMMIT_MESSAGE" value="New project with class Person and Temp file added" />
+    <MESSAGE value="Added code to Person class and created Customer class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added code to Person class and created Customer class" />
   </component>
 </project>
